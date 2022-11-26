@@ -1,0 +1,75 @@
+*{
+    padding: 0;
+    margin: 0;
+
+}
+#title{
+    background-color: #ff4c68;
+}
+.container-fluid {
+  margin: 2% ;
+}
+.navbar-brand{
+    font-family: 'Ubuntu';
+    font-size: 35px;
+    
+
+
+
+}
+
+.nav-item {
+  padding: 0 18px;
+  font-size: 30px;
+  color: white;
+  font-weight: bold;
+  font-family: 'Montserrat-light';
+
+
+
+}
+
+
+
+
+h1{
+    font-family: 'Open Sans', sans-serif;
+    font-family: "Montserrst-Black";
+    font-weight: bolder;
+    
+}
+.intro{
+    font-size: 52px;
+    margin: 20px 0;
+    color: white;
+    line-height:1.5;
+    font-family: 'Ubuntu', sans-serif;
+}
+.image{
+    
+    border-radius: 100%;
+
+}
+.carouselExampleControls{
+    height: 100vh;
+    font-size:larger;
+    background-color: green;
+}
+
+/* about */
+#about{
+    padding: 2% 1%;
+}
+.about-heading{
+    font-size: 3.5rem;
+
+}
+
+.image1{
+    height: 100vh;
+    width: 100%;
+    
+}
+#fotter{
+    text-align: center;
+}
